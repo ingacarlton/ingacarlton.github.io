@@ -1,0 +1,39 @@
+h1 {color: SlateGrey; 
+font-size: 50pt;
+font-family: 'Julius Sans One', sans-serif;}
+h2 {font-size:150%;
+	font-style: bold;
+	color: DarkCyan}
+	
+body {
+	background: AliceBlue;
+	color: SlateGrey;
+	font-size: 18pt;
+	font-family: 'Nunito', sans-serif;
+	}
+	
+nav li { border: 2px solid black;
+		display: inline-block;
+		padding: 10px;
+		margin: 5px;
+		backround: AliceBlue;
+		}
+		
+a { color: IndianRed;
+	text-decoration: none;}
+a:hover {color: DarkSlateBlue; }
+
+.special {color: DarkSlateBlue;}
+
+table, th, td, {border: 1px solid black; border-collapse: collapse}
+
+th { background: white;}
+
+
+.picture {float: left}
+
+.autoResizeImage {
+	max-width: 100%
+	height: auto;
+	width: auto;
+	}
