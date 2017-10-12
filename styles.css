@@ -19,7 +19,7 @@ nav li { border: 2px solid black;
 		backround: AliceBlue;
 		}
 		
-a { color: IndianRed;
+a { color: DarkSlateBlue;
 	text-decoration: none;}
 a:hover {color: DarkSlateBlue; }
 
@@ -27,13 +27,18 @@ a:hover {color: DarkSlateBlue; }
 
 table, th, td, {border: 1px solid black; border-collapse: collapse}
 
-th { background: white;}
+th { background: AliceBLue;}
 
 
-.picture {float: left}
+
 
 .autoResizeImage {
 	max-width: 100%
 	height: auto;
 	width: auto;
 	}
+	
+	.boxed {
+  border: 1px solid green ;
+  width: 700px;
+}
